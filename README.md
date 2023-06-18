@@ -7,8 +7,8 @@ Input: x = 4 Output: 2 Explanation: The square root of 4 is 2, so we return 2.<b
 Input: x = 8 Output: 2 Explanation: The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.<br>
 **Constraints:** 0 <= x <= 231 - 1<br><br>
 
-*Answer*
-**Code** [Link]()
+*Answer*<br>
+**Code** [Link](https://github.com/Srijana1425/DSA_Mock_Test2/blob/main/Q1.js)
 ***************************************************************************************************
 
 **Question2**<br>
@@ -25,6 +25,6 @@ Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9] Output: [8,9,9,9,0,0,0,1]<br>
 0 <= Node.val <= 9
 It is guaranteed that the list represents a number that does not have leading zeros.<br>
 
-*Answer*
-**Code** [Link]()
+*Answer*<br>
+**Code** [Link](https://github.com/Srijana1425/DSA_Mock_Test2/blob/main/Q2.js)
 ***************************************************************************************************
